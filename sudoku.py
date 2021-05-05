@@ -11,7 +11,7 @@ puzzle = """
 6 7 4 3  
      7   
 7 4 5   9
- 9 6  723"""
+ 9 6  723""" # this is a really hacky format that requires a newline.
 
 class Cell:
     def __init__(self):
