@@ -12,4 +12,4 @@ At each iteration, it takes a group of nine cells (a row, column, or block), and
 
 Each iteration tends to make the sudoku 'more solved'.
 
-
+**I think this requires Python 3.8. Beware of the walrus!**
